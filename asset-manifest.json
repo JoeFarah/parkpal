@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parkpal/static/css/main.90b6ab57.css",
+    "main.js": "/parkpal/static/js/main.65087199.js",
+    "static/js/787.61a05ec8.chunk.js": "/parkpal/static/js/787.61a05ec8.chunk.js",
+    "index.html": "/parkpal/index.html",
+    "main.90b6ab57.css.map": "/parkpal/static/css/main.90b6ab57.css.map",
+    "main.65087199.js.map": "/parkpal/static/js/main.65087199.js.map",
+    "787.61a05ec8.chunk.js.map": "/parkpal/static/js/787.61a05ec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b6ab57.css",
+    "static/js/main.65087199.js"
+  ]
+}
