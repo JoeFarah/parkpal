@@ -9,12 +9,14 @@ const Contact = () => {
         <div className='contact-container'>
             <h1 className='contact-title'>Contact details</h1>
             <p className='contact-paragraph'>
-                Please do not hesitate to contact us regarding any circumstances - we don't bite!
+            Feel free to get in touch with us about any matter – we promise we won't bite! 
+            Your questions and feedback are important to us, and we're here to assist you 
+            every step of the way.
             </p>
             <br />
             <h2 className='contact-subtitle'>Email:</h2>
             <p className='contact-paragraph'>
-                joebenjamin@parkpallimited.co.uk
+                park-pal@outlook.com
             </p>
             <br />
             <h2 className='contact-subtitle'>Phone:</h2>
